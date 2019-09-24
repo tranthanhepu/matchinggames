@@ -1,0 +1,130 @@
+{
+	"version": 1,	
+	"items":[
+		{
+			"id": 4,
+			"name": "A",
+			"icon": "A" 			
+		},
+		{
+			"id": 4,
+			"name": "B",
+			"icon": "B" 			
+		},
+		{
+			"id": 4,
+			"name": "C",
+			"icon": "C" 			
+		},
+		{
+			"id": 4,
+			"name": "D",
+			"icon": "D" 			
+		},
+		{
+			"id": 4,
+			"name": "E",
+			"icon": "E" 			
+		},
+		{
+			"id": 4,
+			"name": "F",
+			"icon": "F" 			
+		},
+		{
+			"id": 4,
+			"name": "G",
+			"icon": "G" 			
+		},
+		{
+			"id": 4,
+			"name": "H",
+			"icon": "H" 			
+		},
+		{
+			"id": 4,
+			"name": "I",
+			"icon": "I" 			
+		},
+		{
+			"id": 4,
+			"name": "J",
+			"icon": "J" 			
+		},
+		{
+			"id": 4,
+			"name": "K",
+			"icon": "K" 			
+		},
+		{
+			"id": 4,
+			"name": "L",
+			"icon": "L" 			
+		},
+		{
+			"id": 4,
+			"name": "M",
+			"icon": "M" 			
+		},
+		{
+			"id": 4,
+			"name": "N",
+			"icon": "N" 			
+		},
+		{
+			"id": 4,
+			"name": "O",
+			"icon": "O" 			
+		},
+		{
+			"id": 4,
+			"name": "P",
+			"icon": "P" 			
+		},
+		{
+			"id": 4,
+			"name": "Q",
+			"icon": "Q" 			
+		},
+		{
+			"id": 4,
+			"name": "R",
+			"icon": "R" 			
+		},
+		{
+			"id": 4,
+			"name": "S",
+			"icon": "S" 			
+		},
+		{
+			"id": 4,
+			"name": "T",
+			"icon": "T" 			
+		},
+		{
+			"id": 4,
+			"name": "U",
+			"icon": "U" 			
+		},
+		{
+			"id": 4,
+			"name": "V",
+			"icon": "V" 			
+		},
+		{
+			"id": 4,
+			"name": "X",
+			"icon": "X" 			
+		},
+		{
+			"id": 4,
+			"name": "Y",
+			"icon": "Y" 			
+		},
+		{
+			"id": 4,
+			"name": "Z",
+			"icon": "Z" 			
+		}
+	]
+}

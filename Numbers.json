@@ -1,0 +1,55 @@
+{
+	"version": 1,	
+	"items":[
+		{
+			"catId": 2,
+			"name": "Zero",
+			"icon": "0" 			
+		},
+		{
+			"catId": 2,
+			"name": "One",
+			"icon": "1" 			
+		},
+		{
+			"catId": 2,
+			"name": "Tưo",
+			"icon": "2" 			
+		},
+		{
+			"catId": 2,
+			"name": "Three",
+			"icon": "3" 			
+		},
+		{
+			"catId": 2,
+			"name": "Four",
+			"icon": "4" 			
+		},
+		{
+			"catId": 2,
+			"name": "Five",
+			"icon": "5" 			
+		},
+		{
+			"catId": 2,
+			"name": "Six",
+			"icon": "6" 			
+		},
+		{
+			"catId": 2,
+			"name": "Seven",
+			"icon": "7" 			
+		},
+		{
+			"catId": 2,
+			"name": "Eight",
+			"icon": "8" 			
+		},
+		{
+			"catId": 2,
+			"name": "Nine",
+			"icon": "9" 			
+		}
+	]
+}

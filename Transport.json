@@ -1,0 +1,35 @@
+{
+	"version": 1,	
+	"items":[
+		{
+			"id": 5,
+			"name": "Helicopter",
+			"icon": "MayBayTrucThang" 			
+		},
+		{
+			"id": 5,
+			"name": "Bus",
+			"icon": "XeBus" 			
+		},
+		{
+			"id": 5,
+			"name": "Fire truck",
+			"icon": "XeCuuHoa" 			
+		},
+		{
+			"id": 5,
+			"name": "Bicycle",
+			"icon": "XeDap" 			
+		},
+		{
+			"id": 5,
+			"name": "Car",
+			"icon": "XeHoi" 			
+		},
+		{
+			"id": 5,
+			"name": "Motorbike",
+			"icon": "XeMay" 			
+		}
+	]
+}

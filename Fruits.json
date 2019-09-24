@@ -1,0 +1,45 @@
+{
+	"version": 1,	
+	"items":[
+		{
+			"id": 6,
+			"name": "Tomato",
+			"icon": "CaChua" 			
+		},
+		{
+			"id": 6,
+			"name": "Cherry",
+			"icon": "Cherry" 			
+		},
+		{
+			"id": 6,
+			"name": "Strawberry",
+			"icon": "DauTay" 			
+		},
+		{
+			"id": 6,
+			"name": "Orange",
+			"icon": "QuaCam" 			
+		},
+		{
+			"id": 6,
+			"name": "Banana",
+			"icon": "QuaChuoi" 			
+		},
+		{
+			"id": 6,
+			"name": "Pear",
+			"icon": "QuaLe" 			
+		},
+		{
+			"id": 6,
+			"name": "Grape",
+			"icon": "QuaNho" 			
+		},
+		{
+			"id": 6,
+			"name": "Apple",
+			"icon": "QuaTao" 			
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"version": 1,	
+	"items":[
+		{
+			"catId": 3,
+			"name": "Police",
+			"icon": "CongAn" 			
+		},
+		{
+			"catId": 3,
+			"name": "Worker",
+			"icon": "CongNhan" 			
+		},
+		{
+			"catId": 3,
+			"name": "Chef",
+			"icon": "DauBep" 			
+		},
+		{
+			"catId": 3,
+			"name": "Fireman",
+			"icon": "LinhCuuHoa" 			
+		},
+		{
+			"catId": 3,
+			"name": "Flight attendant",
+			"icon": "TiepVienHangKhong" 			
+		},
+		{
+			"catId": 3,
+			"name": "Nurse",
+			"icon": "YTa" 			
+		}
+	]
+}
