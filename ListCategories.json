@@ -1,0 +1,34 @@
+{
+	"categories":[
+		{
+			"id": 1,
+			"name": "Animals",
+			"icon": "HaMa" 			
+		},
+		{
+			"id": 2,
+			"name": "Numbers",
+			"icon": "6" 			
+		},
+		{
+			"id": 3,
+			"name": "Jobs",
+			"icon": "CongAn" 			
+		},
+		{
+			"id": 4,
+			"name": "Alphabet",
+			"icon": "A" 			
+		},
+		{
+			"id": 5,
+			"name": "Transport",
+			"icon": "XeBus" 			
+		},
+		{
+			"id": 6,
+			"name": "Fruit",
+			"icon": "QuaNho" 			
+		}
+	]
+}
