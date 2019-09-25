@@ -2,32 +2,38 @@
 	"version": 1,	
 	"items":[
 		{
-			"catId": 1,
+			"catid": 1,
+			"id": 1,
 			"name": "Hippo",
 			"icon": "HaMa" 			
 		},
 		{
-			"catId": 1,
+			"catid": 1,
+			"id": 2,
 			"name": "Giraffe",
 			"icon": "HuouCaoCo" 			
 		},
 		{
-			"catId": 1,
+			"catid": 1,
+			"id": 3,
 			"name": "Camel",
 			"icon": "LacDa" 			
 		},
 		{
-			"catId": 1,
+			"catid": 1,
+			"id": 4,
 			"name": "Snake",
 			"icon": "Ran" 			
 		},
 		{
-			"catId": 1,
+			"catid": 1,
+			"id": 5,
 			"name": "Lion",
 			"icon": "Sutu" 			
 		},
 		{
-			"catId": 1,
+			"catid": 1,
+			"id": 6,
 			"name": "Rhino",
 			"icon": "TeGiac" 			
 		}

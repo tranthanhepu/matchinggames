@@ -2,42 +2,50 @@
 	"version": 1,	
 	"items":[
 		{
-			"id": 6,
+			"catid": 6,
+			"id": 1,
 			"name": "Tomato",
 			"icon": "CaChua" 			
 		},
 		{
-			"id": 6,
+			"catid": 6,
+			"id": 2,
 			"name": "Cherry",
 			"icon": "Cherry" 			
 		},
 		{
-			"id": 6,
+			"catid": 6,
+			"id": 3,
 			"name": "Strawberry",
 			"icon": "DauTay" 			
 		},
 		{
-			"id": 6,
+			"catid": 6,
+			"id": 4,
 			"name": "Orange",
 			"icon": "QuaCam" 			
 		},
 		{
-			"id": 6,
+			"catid": 6,
+			"id": 5,
 			"name": "Banana",
 			"icon": "QuaChuoi" 			
 		},
 		{
+			"catid": 6,
 			"id": 6,
 			"name": "Pear",
 			"icon": "QuaLe" 			
 		},
 		{
-			"id": 6,
+			"catid": 6,
+			"id": 7,
 			"name": "Grape",
 			"icon": "QuaNho" 			
 		},
 		{
-			"id": 6,
+			"catid": 6,
+			"id": 8,
 			"name": "Apple",
 			"icon": "QuaTao" 			
 		}

@@ -2,32 +2,38 @@
 	"version": 1,	
 	"items":[
 		{
-			"id": 5,
+			"catid": 5,
+			"id": 1,
 			"name": "Helicopter",
 			"icon": "MayBayTrucThang" 			
 		},
 		{
-			"id": 5,
+			"catid": 5,
+			"id": 2,
 			"name": "Bus",
 			"icon": "Bus" 			
 		},
 		{
-			"id": 5,
+			"catid": 5,
+			"id": 3,
 			"name": "Fire truck",
 			"icon": "XeCuuHoa" 			
 		},
 		{
-			"id": 5,
+			"catid": 5,
+			"id": 4,
 			"name": "Bicycle",
 			"icon": "XeDap" 			
 		},
 		{
+			"catid": 5,
 			"id": 5,
 			"name": "Car",
 			"icon": "XeHoi" 			
 		},
 		{
-			"id": 5,
+			"catid": 5,
+			"id": 6,
 			"name": "Motorbike",
 			"icon": "XeMay" 			
 		}
